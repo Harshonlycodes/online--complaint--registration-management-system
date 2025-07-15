@@ -1,0 +1,41 @@
+[
+  {
+    "id": "78330185-c8b0-49c9-a17d-cedcf407e8aa",
+    "title": "Garbage issue in Sector 5",
+    "description": " Garbage not collected for 3 days",
+    "userId": "5ed7a5d2-40d3-4721-9014-86ff59bf7bb0",
+    "status": "pending",
+    "category": "general",
+    "adminComment": "",
+    "handlerName": "",
+    "attachment": null,
+    "createdAt": "2025-07-11T19:11:49.095Z",
+    "updatedAt": "2025-07-11T19:11:49.096Z"
+  },
+  {
+    "id": "5e2e958e-9b38-4e37-a3e5-801ad4002b17",
+    "title": "street light not working ",
+    "description": "strret light is not working properly from 2 days ",
+    "userId": "5ed7a5d2-40d3-4721-9014-86ff59bf7bb0",
+    "status": "pending",
+    "category": "general",
+    "adminComment": "",
+    "handlerName": "",
+    "attachment": null,
+    "createdAt": "2025-07-11T19:30:42.563Z",
+    "updatedAt": "2025-07-11T19:30:42.563Z"
+  },
+  {
+    "id": "9c49094e-5bab-4a35-a8f5-238638f6fa11",
+    "title": "potholes on road",
+    "description": "potholes on road due to rain",
+    "userId": "5ed7a5d2-40d3-4721-9014-86ff59bf7bb0",
+    "status": "pending",
+    "category": "general",
+    "adminComment": "",
+    "handlerName": "",
+    "attachment": null,
+    "createdAt": "2025-07-11T21:57:18.608Z",
+    "updatedAt": "2025-07-11T21:57:18.608Z"
+  }
+]

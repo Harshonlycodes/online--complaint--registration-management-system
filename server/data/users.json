@@ -1,0 +1,47 @@
+[
+  {
+    "id": "5ed7a5d2-40d3-4721-9014-86ff59bf7bb0",
+    "name": "Harsh Dev",
+    "email": "testuser123@example.com",
+    "password": "$2a$10$Q8gha8mP0/L2BHG0D0HXKetfiBszUBFYWXPQSMTm6vWcyTCVGccxW",
+    "role": "user",
+    "createdAt": "2025-07-11T19:08:32.217Z",
+    "updatedAt": "2025-07-11T19:08:32.219Z"
+  },
+  {
+    "id": "82a9e663-738e-4d2e-bcdf-c382b029c971",
+    "name": "Harsh dev",
+    "email": "testuser@example.com",
+    "password": "$2a$10$GYZ7T.LL64HWZS0EBnLwr.6YXNPyrgrK0P4oGt9YYsnodH1hM3dwu",
+    "role": "user",
+    "createdAt": "2025-07-12T09:09:20.781Z",
+    "updatedAt": "2025-07-12T09:09:20.781Z"
+  },
+  {
+    "id": "a86f34d3-e064-4221-a05b-ebdd16d85e83",
+    "name": "Harsh Don",
+    "email": "testuser1@example.com",
+    "password": "$2a$10$B3tbVFzm6JbIAVT4fEn7ouci3.IaozSgbBDRkaJnJ./xKea41fofi",
+    "role": "user",
+    "createdAt": "2025-07-13T09:15:40.111Z",
+    "updatedAt": "2025-07-13T09:15:40.111Z"
+  },
+  {
+    "id": "d495542d-0114-41d6-9647-ae371e26c78c",
+    "name": "Harsh Dev",
+    "email": "testuser1234@example.com",
+    "password": "$2a$10$rm0SKBpbYshDv.XBsEr3Ze8VQaojUI64OB9f7u3gBt7Xg2ubUgyDm",
+    "role": "user",
+    "createdAt": "2025-07-14T18:52:10.636Z",
+    "updatedAt": "2025-07-14T18:52:10.636Z"
+  },
+  {
+    "id": "170fbbd4-6e81-4f88-9188-7cc3a42daf38",
+    "name": "Bablu admin",
+    "email": "admintest@demo.com",
+    "password": "$2a$10$uCaeV6D4GDWvhyHj3tsin.uOg2hThfCyxU/krcOUmCmSjjnc.4T.G",
+    "role": "admin",
+    "createdAt": "2025-07-14T19:22:23.632Z",
+    "updatedAt": "2025-07-14T19:22:23.632Z"
+  }
+]
